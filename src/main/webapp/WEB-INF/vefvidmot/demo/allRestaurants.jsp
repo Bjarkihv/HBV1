@@ -243,7 +243,7 @@
         <br>
 
         <!-- Notandi getur hafið nýja leit í gegnum þennan hlekk -->
-        <a href="https://immense-shelf-90486.herokuapp.com/demo/spyrjaNotanda" class="button newSearch">New search</a>
+        <a href="/demo/spyrjaNotanda" class="button newSearch">New search</a>
     </section>
 
 

@@ -181,7 +181,7 @@
         <h2>Get a random suggestion</h2>
         <div class="randRes">
 
-            <a href="https://immense-shelf-90486.herokuapp.com/demo/randRes" class="button">Random search!</a>
+            <a href="/demo/randRes" class="button">Random search!</a>
 
         </div>
 
@@ -192,7 +192,7 @@
         <h2>Write a review</h2>
         <div class="randRes">
 
-            <a href="https://immense-shelf-90486.herokuapp.com/demo/mkRev" class="button">Add review</a>
+            <a href="/demo/mkRev" class="button">Add review</a>
 
         </div>
 
