@@ -246,10 +246,10 @@
             </form>
 
             <!-- Ný leit í gegnum þennan hlekk-->
-            <a href="http://localhost:8080/demo/randRes" class="button tryAgain">Try again</a>
+            <a href="https://immense-shelf-90486.herokuapp.com/demo/randRes" class="button tryAgain">Try again</a>
         </div>
 
-        <a href="http://localhost:8080/demo/spyrjaNotanda" class="button newSearch">New search</a>
+        <a href="https://immense-shelf-90486.herokuapp.com/demo/spyrjaNotanda" class="button newSearch">New search</a>
         </c:when>
         <c:otherwise>
             <h3> No restaurant was found </h3>

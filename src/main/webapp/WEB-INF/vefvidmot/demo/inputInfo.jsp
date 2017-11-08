@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-<!-- Skilgreiningar á tögum sem hægt er að nota í HTML kóða -->
+<!-- Skilgreiningar ï¿½ tï¿½gum sem hï¿½gt er aï¿½ nota ï¿½ HTML kï¿½ï¿½a -->
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 <%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core"%>
 <%@ taglib prefix="sf" uri="http://www.springframework.org/tags/form"%>
@@ -150,7 +150,7 @@
     <section>
         <h2>Please enter your search information below</h2>
 
-        <!-- Biðjum notanda hér um tegund veitingastaðar til að leita að  -->
+        <!-- Biï¿½jum notanda hï¿½r um tegund veitingastaï¿½ar til aï¿½ leita aï¿½  -->
         <div>
             <form method="POST" commandName="restaurant" action="/demo/typeResults">
 
@@ -181,7 +181,7 @@
         <h2>Get a random suggestion</h2>
         <div class="randRes">
 
-            <a href="http://localhost:8080/demo/randRes" class="button">Random search!</a>
+            <a href="https://immense-shelf-90486.herokuapp.com/demo/randRes" class="button">Random search!</a>
 
         </div>
 
@@ -192,7 +192,7 @@
         <h2>Write a review</h2>
         <div class="randRes">
 
-            <a href="http://localhost:8080/demo/mkRev" class="button">Add review</a>
+            <a href="https://immense-shelf-90486.herokuapp.com/demo/mkRev" class="button">Add review</a>
 
         </div>
 
