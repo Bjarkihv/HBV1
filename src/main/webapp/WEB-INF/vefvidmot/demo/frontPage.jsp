@@ -82,7 +82,7 @@
 
         <h2>Your perfect table is waiting for you</h2>
 
-        <a href="http://localhost:8080/demo/spyrjaNotanda" class="button">Start search</a>
+        <a href="https://immense-shelf-90486.herokuapp.com/demo/spyrjaNotanda" class="button">Start search</a>
 
 
     </div>
